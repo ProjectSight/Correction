@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yacjne/Bureau/CPP/TP1/untitled/Etudiant.h
+string
+-
+
+/home/yacjne/Bureau/CPP/TP1/untitled/Releve2Notes.cpp
+iostream
+-
+Releve2Notes.h
+/home/yacjne/Bureau/CPP/TP1/untitled/Releve2Notes.h
+
+/home/yacjne/Bureau/CPP/TP1/untitled/Releve2Notes.h
+Etudiant.h
+/home/yacjne/Bureau/CPP/TP1/untitled/Etudiant.h
+vector
+-
+
